@@ -1,0 +1,19 @@
+availability_zones = ["us-east-1a", "us-east-1b",]
+aws_account_id  = ""
+
+private_subnets_cidr = ["10.0.16.0/22", "10.0.24.0/22"]
+public_subnets_cidr = ["10.0.32.128/26", "10.0.32.192/26"]
+region = "us-east-1"
+resource_owner = "data"
+sg_egress_ports = [443, 3306, 6666, 2443, 8443, 8444, 8445, 8446, 8447, 8448, 8449, 8450, 8451]
+sg_egress_protocol = ["tcp", "udp"]
+sg_ingress_protocol = ["tcp","udp"]
+team = "data_team"
+vpc_cidr_range = "10.0.0.0/18"
+databricks_account_id = ""
+dbfsname = ""
+resource_prefix = ""
+user_name = ""
+client_secret = ""
+client_id = ""
+password = ""

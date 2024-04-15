@@ -1,0 +1,10 @@
+region = "us-east-1"
+databricks_account_id = ""
+resource_prefix = "iam-role-test-cli"
+bucket_name = ""
+cross_account_role_arn = ""
+security_group_ids = ["",]
+subnet_ids = ["","",]
+vpc_id = ""
+username = ""
+password = ""
