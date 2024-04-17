@@ -1,11 +1,4 @@
 
-# provider "databricks" {
-#   alias = "account"
-#   host = "https://accounts.cloud.databricks.com"
-#   username = "iryna.klymentyeva@yahoo.com"
-#   password = "88loki57!60MLo"
-# }
-
 // Terraform Documentation: https://registry.terraform.io/providers/databricks/databricks/latest/docs/resources/mws_workspaces
 
 
